@@ -16,6 +16,6 @@ private int numberOfArrows;
 
     @Override
     public String printInfo() {
-        return super.printInfo() + "Number of arrows: " + this.numberOfArrows;
+        return super.printInfo() + ", numberOfArrows:" + this.numberOfArrows;
     }
 }
